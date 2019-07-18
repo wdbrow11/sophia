@@ -11,7 +11,8 @@ var shoutouts = [
   "Your humor and kindness.",
   "How you're outgoing and excited to start convos!",
   "how nice and kind you are. I love having coding mental breakdowns with you and love how both of us help each other when we are stuck.",
-  "Your kind hearted spirit and your smile is so contagious."
+  "Your kind hearted spirit and your smile is so contagious.",
+  "You're very sweet and also have awesome ideas to work on, also I really hope you get to travel as much as you want and be happy."
 ]
 
 for (x of shoutouts) {
